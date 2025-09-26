@@ -1,0 +1,26 @@
+{
+    "token": "MTQyMTE0Mzk1ODY0OTcwNDU3OA.GwbX45.ryLI0cH2qY91IR8BFV1M1T1mqVjxdBZqnz-h7I",
+    "idserver": "1108397618616356894",
+    "ruolostaff": "1108397619765583924",
+    "ruolovip": "1108397619711070253",
+    "canaletranscript": "1108397623766962248",
+    "canalegestione": "1108397623414636653",
+    "logoserver": "https://i.fmfile.com/fcVUvxv8Jvb2Fy2MRLpnq/logo_eclipse_2.0_2.png",
+    "coloreserver": "darkorchild",
+    "nomeserver": "Eclipse RP 2.0",
+    "canaleticket": "1108397625641803837",
+    "categoriaidgenerale": "1129217297660264518",
+    "categoriaiddonazione": "1129217333827747860",
+    "categoriaidunban": "1129217359622709420",
+    "categoriaidpermadeath": "1129217392787071066",
+    "categoriaidvip": "1129217418733043802",
+    "categoriaiddev": "1129217447858286692",
+    "categoriaidamm": "1129217476228563044",
+    "ruoli": {
+        "respstaff" : "1108397619824312385",
+        "cofounder" : "1108397619824312387",
+        "founder" : "1108397619824312388"
+    },
+    "linkinvito" : "",
+    "messaggio": "\n\n📣 **Ticket Generale** *, tale categoria di assistenze e ticket è creata se una delle precedenti voci non soddisfa la richiesta di assistenza.*\n❌ **Richiesta Unban** *, tale categoria ha la funzione di: cercare di capire il motivo del tuo ban, se sbagliato sbannarti oppure rivalutare il tuo ban*.\n🎁 **Donazione** *, tale categoria ha la funzione di: aiutare chi vuole fare una donazione oppure acquistare dal tebex*.\n💀 **Richiesta Permadeath** *, essa è una categoria di ticket che serve per uccidere completamente una persona in gioco, per un perma sarà neccesario avere 5 motivazioni valide con relative clip*\n💎 **Vip** *, questa è la categoria ticket dedicata solo a voi VIP, i quali hanno acquistato il pack VIP dal tebex, avrete ovviamente precedenza nei ticket*\n💻 **Developer** *, questa è la categoria ticket dedicata alla Segnalazione Bug, Cambio Data, Cambio Nome e Cognome o tutte quelle richieste ove è necessario essere assistiti da uno scripter/developer*"
+}
